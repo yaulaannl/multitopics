@@ -122,7 +122,14 @@ By providing your email you consent to receiving occasional promotional emails &
         </div><!-- modal-dialog -->
 </div><!-- modal -->
 
-<!-- MODAL for post                                                                                                                                          ================================================== -->                                                                                                       <div class="modal fade" id="postModal">                                                                                                                              <div class="modal-dialog modal-lg">                                                                                                                                  <div class="modal-content">                                                                                                                                  </div> <!-- modal content -->                                                                                                                        </div> <!-- modal dialog -->                                                                                                                         </div>
+<!-- MODAL for post popup  --> 
+
+<div class="modal fade" id="postModal"> 
+  <div class="modal-dialog modal-lg"> 
+    <div class="modal-content"> 
+    </div> <!-- modal content --> 
+  </div> <!-- modal dialog -->
+</div>
 
 
 
