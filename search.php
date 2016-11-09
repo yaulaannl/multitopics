@@ -21,7 +21,7 @@ if(get_locale() == 'zh_TW'){
 <section class="header-image parallax-bg section-bg" data-type="background" data-speed="2" style="<?php echo $topic_header_image ?>">
 	<div class="header-text">
 		<h1 class="page-title"> 
-			<?php printf( __( $my_search_txt, 'shape' ), '<span>' . get_search_query() . '</span>' ); ?> 
+			<?php printf( $my_search_txt, '<span>' . get_search_query() . '</span>' ); ?> 
 		</h1>
 	</div>
 </section>
