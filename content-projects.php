@@ -33,7 +33,7 @@ $topic_beer_life_text = get_field('topic_beer_life_text');
 				<div class="project-block">
 
 					<!-- link block to corresponding pages -->		
-					<a href="/index.php?cat=5">
+					<a href="/index.php/category/iot/">
 						<span class="link-spanner"></span>
 					</a>
 
@@ -48,7 +48,7 @@ $topic_beer_life_text = get_field('topic_beer_life_text');
 			<div class="col-sm-6">
 				<div class="project-block">
 					<!-- link block to corresponding pages -->		
-					<a href="/index.php?cat=6">
+					<a href="/index.php/category/cycling/">
 						<span class="link-spanner"></span>
 					</a>
 
@@ -66,7 +66,7 @@ $topic_beer_life_text = get_field('topic_beer_life_text');
 				<div class="project-block">
 
 					<!-- link block to corresponding pages -->		
-					<a href="/index.php?cat=8">
+					<a href="/index.php/category/web/">
 						<span class="link-spanner"></span>
 					</a>
 
@@ -81,7 +81,7 @@ $topic_beer_life_text = get_field('topic_beer_life_text');
 				<div class="project-block">
 
 					<!-- link block to corresponding pages -->		
-					<a href="/index.php?cat=7">
+					<a href="/index.php/category/beer_life">
 						<span class="link-spanner"></span>
 					</a>
 
