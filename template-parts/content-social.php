@@ -16,9 +16,6 @@ $tr_share_url = 'https://twitter.com/share?url=' . $my_post_url . '&text=' . $my
   <a class="fa-stack fa-lg social-icons" href="<?php echo $fb_share_url; ?>" target="_blank" >
 	<i class="fa fa-circle fa-stack-2x iconbg-fb"></i>
 	<i class="fa fa-facebook fa-stack-1x"></i>
-	<span class="social-counter fb-counter">
-		<?php echo my_get_shares($post->ID); ?>
-	</span>
   </a>
 
   <a class="fa-stack fa-lg social-icons" href="<?php echo $gl_share_url; ?>" target="_blank" >
